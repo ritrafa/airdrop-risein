@@ -33,6 +33,7 @@ Run the following commands to initilize and be able to use all features:
 ## Commands
 
 **In terminal:**
+
     yarn keygen
 This will create a new keypair for you and return its private key into the terminal.
 
@@ -46,4 +47,7 @@ This will send a small amount of sol from the dev-wallet in the repo to GEYAdA39
 This will add a pda to the wba_prereq program adding ritrafa to the registry log
 
 **In frontend (http://localhost:3000 after you run the next dev server):**
-Submit a review, which uses the AddReview function of the resturant-review program 
+
+    Connect Wallet
+    Submit a review
+This uses the AddReview function of the resturant-review program 
