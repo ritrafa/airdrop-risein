@@ -16,6 +16,7 @@ Additionally "@solana/web3.js" is used to generate keys and airdrop on devnet
 Run the following commands to initilize and be able to use all features:
 
 **In root directory:**
+
     yarn init -y 
     yarn add @types/node typescript @solana/web3.js bs58
     yarn add -D ts-node
@@ -24,6 +25,7 @@ Run the following commands to initilize and be able to use all features:
     yarn add rpc-websockets@7.11.0   
 
 **In frontend directory:**
+
     npm install
     npm audit fix --force
     npm run dev
