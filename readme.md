@@ -23,7 +23,7 @@ Run the following commands to initilize and be able to use all features:
     yarn add @coral-xyz/anchor@0.30.0
     yarn add @solana/web3.js@1.91.8  
     yarn add rpc-websockets@7.11.0   
-
+ 
 **In frontend directory:**
 
     npm install
